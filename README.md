@@ -1,5 +1,17 @@
 <!-- Introduction + Coffee -->
-<h1> Hi! Harshit here... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center"> Hi! Harshit here... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/harshit-gogia-0a4465200">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/hrsht_go?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/harshitgogia185">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</div>
+<br>
 <div align="left">
 
 <!--   About me -->
@@ -41,14 +53,4 @@ Furthermore, I am deeply engaged as an advocate and custodian of open-source ini
 
 
 ---
-<div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/harshit-gogia-0a4465200">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/hrsht_go?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/harshitgogia185">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-</div>
+
