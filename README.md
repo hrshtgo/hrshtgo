@@ -1,9 +1,49 @@
-Hi, I'm [Harshit Gogia], A proficient and self-assured professional, adept at acquiring and applying novel concepts. Possessing a meticulous approach to tasks and a proficiency in coding and analytical thinking, I am a collaborative team player who adeptly organizes priorities and efficiently allocates time to accomplish objectives.
+<!-- Introduction + Coffee -->
+<h1> Hi! Harshit here... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<div align="left">
+
+<!--   About me -->
+  <ul>
+    <li>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="20" height="20" /> &nbsp; Pursuing Bachelor's in Computer Science.
+    <li>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="20" height="20" /> &nbsp; Specializing in Data Science and Machine Learning.
+    </li>
+	</ul>
+</div>
+
+
+---
+I'm a proficient and self-assured professional, adept at acquiring and applying novel concepts. Possessing a meticulous approach to tasks and a proficiency in coding and analytical thinking, I am a collaborative team player who adeptly organizes priorities and efficiently allocates time to accomplish objectives.
 
 Furthermore, I am deeply engaged as an advocate and custodian of open-source initiatives. My experiences within the open-source community have provided me with invaluable insights, and I am deeply appreciative of the collaborative ethos and knowledge dissemination inherent in open-source practices.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 Any freelance work? do reach, [coolharshit185@gmail.com](mailto:coolharshit185@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help!
+
+- 💼   For any freelance work, reach: [coolharshit185@gmail.com](mailto:coolharshit185@gmail.com) :)
+- 💬   Ask me about anything, I am happy to help!  
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="Rstudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
+---
+<div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/harshit-gogia-0a4465200">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/hrsht_go?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
