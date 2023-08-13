@@ -21,20 +21,19 @@ Furthermore, I am deeply engaged as an advocate and custodian of open-source ini
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💼   For any freelance work, reach: [coolharshit185@gmail.com](mailto:coolharshit185@gmail.com) :)
+- 💼   [coolharshit185@gmail.com](mailto:coolharshit185@gmail.com)
 - 💬   Ask me about anything, I am happy to help!  
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" **alt="mysql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" **alt="mysql" width="40" height="40"/>
 </div>
 
 
