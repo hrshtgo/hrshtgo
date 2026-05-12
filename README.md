@@ -12,20 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Harshit Gogia 👋
+# Hi there, I'm Harshit Gogia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Backend+Developer;AI%2FML+Engineer;Data+Science+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/hrshtgo/hrshtgo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/hrshtgo/hrshtgo/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation — hrshtgo"
-       src="https://raw.githubusercontent.com/hrshtgo/hrshtgo/output/github-contribution-grid-snake.svg"
-       style="max-width:100%; height:auto; display:block; margin:0 auto;" />
-</picture>
 
 ## 🚀 About Me
 
@@ -46,6 +37,10 @@ I'm a passionate **Backend Developer** and **AI/ML Engineer** who loves building
 
 ### Frameworks & Libraries
 <div align="center">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="numpy" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="numpy" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="numpy" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="45" height="45"/>
@@ -58,7 +53,7 @@ I'm a passionate **Backend Developer** and **AI/ML Engineer** who loves building
 
 ### Databases & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=redis,kafka,postgresql,docker,kubernetes,git,github" />
 </div>
 
 
