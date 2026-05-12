@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/Parthgogia/Parthgogia/output/github-contribution-grid-snake-dark.svg" />
+          srcset="https://raw.githubusercontent.com/hrshtgo/hrshtgo/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/Parthgogia/Parthgogia/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation — Parthgogia"
-       src="https://raw.githubusercontent.com/Parthgogia/Parthgogia/output/github-contribution-grid-snake.svg"
+          srcset="https://raw.githubusercontent.com/hrshtgo/hrshtgo/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation — hrshtgo"
+       src="https://raw.githubusercontent.com/hrshtgo/hrshtgo/output/github-contribution-grid-snake.svg"
        style="max-width:100%; height:auto; display:block; margin:0 auto;" />
 </picture>
 
@@ -41,7 +41,7 @@ I'm a passionate **Backend Developer** and **AI/ML Engineer** who loves building
 
 ### Languages & Core Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 </div>
 
 ### Frameworks & Libraries
