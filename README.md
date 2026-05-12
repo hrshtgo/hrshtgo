@@ -1,54 +1,93 @@
-<!-- Introduction + Coffee -->
-<h1 align="center"> Hi! Harshit here... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/harshit-gogia-0a4465200">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/hrsht_go?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/harshitgogia185">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-</div>
-<br>
-<div align="left">
+<!--
+**hrshtgo/hrshtgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--   About me -->
-  <ul>
-    <li>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="20" height="20" /> &nbsp; Pursuing Bachelor's in Computer Science.
-    <li>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="20" height="20" /> &nbsp; Specializing in Data Science and Machine Learning.
-    </li>
-	</ul>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+# Hi there, I'm Harshit Gogia 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Backend+Developer;AI%2FML+Engineer;Data+Science+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/Parthgogia/Parthgogia/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/Parthgogia/Parthgogia/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation — Parthgogia"
+       src="https://raw.githubusercontent.com/Parthgogia/Parthgogia/output/github-contribution-grid-snake.svg"
+       style="max-width:100%; height:auto; display:block; margin:0 auto;" />
+</picture>
+
+## 🚀 About Me
+
+I'm a passionate **Backend Developer** and **AI/ML Engineer** who loves building innovative solutions that bridge the gap between cutting-edge technology and real-world applications. I enjoy working with data, creating intelligent systems, and developing seamless user experiences.
+
+- 🔭 I'm currently working on **AI-powered web applications**.
+- 🌱 I'm always learning about **new technologies and best practices**.
+- 💡 I love solving complex problems with **clean, efficient code**.
+- 🎯 Goal: To create technology that makes a positive impact.
+- ⚡ Fun fact: I love playing **chess**. Connect with me on https://www.chess.com/member/hrsht0.
+
+## 💻 Tech Stack
+
+### Languages & Core Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp" />
 </div>
 
+### Frameworks & Libraries
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/>
+
+</div>
+
+### Databases & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,docker,git,github" />
+</div>
+
+
+## 📈 Current Focus
+
+```python
+current_focus = {
+    "learning": ["Advanced ML Algorithms", "Cloud Computing", "System Design"],
+    "building": ["AI-powered applications", "Scalable web services"],
+    "exploring": ["New frameworks", "Best practices", "Open source contributions"]
+}
+```
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-gogia-0a4465200/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coolharshit185@gmail.com)
+
+</div>
 
 ---
-I'm a proficient and self-assured professional, adept at acquiring and applying novel concepts. Possessing a meticulous approach to tasks and a proficiency in coding and analytical thinking, I am a collaborative team player who adeptly organizes priorities and efficiently allocates time to accomplish objectives.
 
-Furthermore, I am deeply engaged as an advocate and custodian of open-source initiatives. My experiences within the open-source community have provided me with invaluable insights, and I am deeply appreciative of the collaborative ethos and knowledge dissemination inherent in open-source practices.
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-- 💼   [coolharshit185@gmail.com](mailto:coolharshit185@gmail.com)
-- 💬   Ask me about anything, I am happy to help!  
-
----
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
