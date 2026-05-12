@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Harshit Gogia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <div align="center">
-  <em><b>"The best way to predict the future is to invent it."</b></em>
-</div>
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Systems+Architect;Data+Science+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
@@ -29,7 +26,7 @@ I am a **Software Engineer** driven by the challenge of building systems that ar
 - 🌱 I'm always learning about **new technologies and best practices**.
 - 💡 I love solving complex problems with **clean, efficient code**.
 - 🎯 Goal: To create technology that makes a positive impact.
-- ⚡ Fun fact: I love playing **chess**. Connect with me on https://www.chess.com/member/hrsht0.
+- ⚡ Fun fact: I love playing **chess**.
 
 ## 🛠️ Key Architectural Expertise
 * **Event-Driven Design:** Experience scaling pipelines to handle massive event streams with zero data loss.
@@ -80,14 +77,14 @@ current_focus = {
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-gogia-0a4465200/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coolharshit185@gmail.com)
+[![Chess.com](https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chess.com&logoColor=769656)](https://www.chess.com/member/hrsht0)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <em><b>"The best way to predict the future is to invent it."</b></em>
 </div>
 
 <div align="center">
