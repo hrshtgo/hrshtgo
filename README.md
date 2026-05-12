@@ -12,15 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Harshit Gogia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
+# Hi there, I'm Harshit Gogia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Backend+Developer;AI%2FML+Engineer;Data+Science+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <em><b>"The best way to predict the future is to invent it."</b></em>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Systems+Architect;Data+Science+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Developer** and **AI/ML Engineer** who loves building innovative solutions that bridge the gap between cutting-edge technology and real-world applications. I enjoy working with data, creating intelligent systems, and developing seamless user experiences.
+I am a **Software Engineer** driven by the challenge of building systems that are not just functional, but resilient and scalable. My approach to development is rooted in **Engineering Excellence**—leveraging SOLID principles, rigorous testing, and performance profiling to deliver high-impact results. I enjoy working with data, creating intelligent systems, and developing seamless user experiences. 
 
 - 🔭 I'm currently working on **AI-powered web applications**.
 - 🌱 I'm always learning about **new technologies and best practices**.
@@ -28,8 +31,12 @@ I'm a passionate **Backend Developer** and **AI/ML Engineer** who loves building
 - 🎯 Goal: To create technology that makes a positive impact.
 - ⚡ Fun fact: I love playing **chess**. Connect with me on https://www.chess.com/member/hrsht0.
 
-## 💻 Tech Stack
+## 🛠️ Key Architectural Expertise
+* **Event-Driven Design:** Experience scaling pipelines to handle massive event streams with zero data loss.
+* **Cloud-Native DevOps:** Automating CI/CD workflows and managing containerized deployments for seamless delivery.
+* **API Governance:** Designing secure, high-performance APIs with robust caching and authentication.
 
+## 💻 Tech Stack
 ### Languages & Core Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
